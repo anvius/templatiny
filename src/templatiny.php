@@ -1,6 +1,6 @@
 <?php
 
-  class templatiny
+  class Templatiny
   {
       protected $template;
       protected $variables = array();
